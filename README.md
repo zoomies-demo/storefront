@@ -1,5 +1,7 @@
 # storefront
 
+[![CI has the Zoomies](https://zoomies.sh/badge.svg)](https://zoomies.sh)
+
 A small shopping cart library: items, quantities, a percentage discount and
 prices kept in whole pence.
 
