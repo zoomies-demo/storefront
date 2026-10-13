@@ -1,0 +1,11 @@
+{
+  "name": "storefront",
+  "version": "0.1.0",
+  "description": "The demo organisation's shop front: a small cart library with tests.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
